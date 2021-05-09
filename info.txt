@@ -1,1 +1,22 @@
 Learning git
+
+#to push a branch to remote
+git push -u origin sampleBranch
+
+#create a new branch
+git branch 'branchname'
+
+# to move to a new branch on local
+git checkout branchname
+
+#to view all avialable to branches
+git branch
+
+#to view all remote repos
+git remote
+
+#to stash changes
+git stash
+
+
+
