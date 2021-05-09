@@ -18,5 +18,12 @@ git remote
 #to stash changes
 git stash
 
+# git merge command
+#before merging, you should be on your local branch.
+git merge master
 
+#to add your file
+git commit add .
 
+#to commit the changes to repo
+git commit -m 'Some comments'
