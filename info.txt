@@ -27,3 +27,4 @@ git commit add .
 
 #to commit the changes to repo
 git commit -m 'Some comments'
+  modified text
